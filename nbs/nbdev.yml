@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "playing_cards"
+  site-url: "https://PedroHussain.github.io/playing_cards"
+  description: "Basic data structures and methods for playing cards"
+  repo-branch: main
+  repo-url: "https://github.com/PedroHussain/playing_cards"
